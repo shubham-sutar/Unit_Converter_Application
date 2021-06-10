@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Unit_Coverter_Application/1.0.0": {
+        "runtime": {
+          "Unit_Coverter_Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit_Coverter_Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
